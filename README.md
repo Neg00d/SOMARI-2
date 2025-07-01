@@ -7,7 +7,7 @@ WHAT'S NEW?
 
 + Slightly faster physics
 + Strange enemy designs
-+ updated Power Up's
++ updated Power Ups
 + 32 (semi new) levels
 + Improved water stages
 + A story that doesn’t take itself too seriously

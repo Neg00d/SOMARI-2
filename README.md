@@ -10,7 +10,7 @@ WHAT'S NEW?!
 + start with 5 lifes
 + new text & UI
 + slightly faster physics
-+ strange enemy designs
++ glitched enemy designs
 + updated power up behavior
 + improved water stages (trust me)
 + a story (placed in the EXTRAS-folder)

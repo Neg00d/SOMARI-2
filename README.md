@@ -12,7 +12,7 @@ WHAT'S NEW?!
 + slightly faster physics
 + glitched enemy designs
 + updated power up behavior
-+ improved water stages (trust me)
++ new water stages
 + a story (placed in the EXTRAS-folder)
 
 This project is also a sequel to my other SMB. hack: 'Super Mario Bros. ARCADE PLUS'

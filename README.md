@@ -15,4 +15,4 @@ WHAT'S NEW?!
 + new water stages
 + a story (placed in the EXTRAS-folder)
 
-This project is also a sequel to my other SMB. hack: 'Super Mario Bros. ARCADE PLUS'
+This project is also a sequel to my other SMB. hack: 'Super Mario Bros. ARCADE PLUS'!
